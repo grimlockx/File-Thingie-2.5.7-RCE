@@ -6,7 +6,7 @@
 # Exploit Author: Maurice Fielenbach (grimlockx) - Hexastrike Cybersecurity UG (haftungsbeschränkt)
 # Software Link: https://github.com/leefish/filethingie
 # Version: 2.5.7
-# Tested on: CentOS 7
+# Tested on: N/A
 # CVE: N/A
 
 # Vulnerability originally discovered / published by Cakes
