@@ -1,4 +1,4 @@
-# FileThingie 2.5.7 - RCE
+# File Thingie 2.5.7 - RCE
 
 Arbitary File Upload discovered by Cakes: https://www.exploit-db.com/exploits/47349
 
