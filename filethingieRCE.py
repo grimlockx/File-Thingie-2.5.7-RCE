@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# Exploit Title: File Thingie 2.5.7 - RCE
+# Exploit Title: File Thingie 2.5.7 - Arbitary File Upload to RCE
 # Google Dork: N/A
 # Date: 27th of April, 2023
 # Exploit Author: Maurice Fielenbach (grimlockx) - Hexastrike Cybersecurity UG (haftungsbeschränkt)
