@@ -12,9 +12,9 @@ options:
   -t TARGET, --target TARGET
                         Target URL to ft2.php
   -u USERNAME, --username USERNAME
-                        FileThingie username
+                        File Thingie username
   -p PASSWORD, --password PASSWORD
-                        FileThingie password
+                        File Thingie password
   -L LHOST, --LHOST LHOST
                         Local listener ip
   -P LPORT, -LPORT LPORT
