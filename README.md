@@ -1,4 +1,4 @@
-# File Thingie 2.5.7 - RCE
+# File Thingie 2.5.7 - Arbitary File Upload to RCE
 
 Arbitary File Upload discovered by Cakes: https://www.exploit-db.com/exploits/47349. This PoC exploits the discovered vulnerability and generates and uploads a webshell.
 
